@@ -30,7 +30,7 @@ int a,b;
     }
     else{
             printf("\n enter two number:");
-    scanf("\%d%d",&a,&b);
+    scanf("%d%d",&a,&b);
     result=a+b;
     printf("\n result=%d",result);
 
@@ -50,7 +50,7 @@ int a,b;
     }
     else{
             printf("\n enter two number:");
-    scanf("\%d%d",&a,&b);
+    scanf("%d%d",&a,&b);
     result=a-b;
     printf("\n result=%d",result);
 
@@ -69,7 +69,7 @@ int a,b;
          }
     else{
             printf("\n enter two number:");
-            scanf("\%d%d",&a,&b);
+            scanf("%d%d",&a,&b);
             result=a/b;
             printf("\n result=%d",result);
 
@@ -87,7 +87,7 @@ int a,b;
     }
     else{
             printf("\n enter two number:");
-    scanf("\%d%d",&a,&b);
+    scanf("%d%d",&a,&b);
     result=a*b;
     printf("\n result=%d",result);
 
@@ -107,7 +107,7 @@ int a,b;
     }
     else{
             printf("\n enter two number:");
-    scanf("\%d%d",&a,&b);
+    scanf("%d%d",&a,&b);
     result=a%b;
     printf("\n result=%d",result);
 
